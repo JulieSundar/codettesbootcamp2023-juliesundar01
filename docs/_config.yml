@@ -1,1 +1,4 @@
 theme: jekyll-theme-architect
+nav:
+    - Home: index.md
+    - About: about.md
